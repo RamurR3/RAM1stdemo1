@@ -1,0 +1,38 @@
+/* Style the header */
+header {
+    text-align: center;
+    background-color: #3498db;
+    color: #fff;
+    padding: 20px;
+}
+
+/* Style the form section */
+#form-section {
+    text-align: center;
+    padding: 20px;
+}
+
+form {
+    display: inline-block;
+    text-align: left;
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Style the image slider section */
+#slider-section {
+    text-align: center;
+    padding: 20px;
+}
+
+#image-slider {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 500px;
+    height: 300px;
+ }
